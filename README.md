@@ -12,7 +12,7 @@ Edit a book ✏️
 
 Delete a book ❌
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 .NET Core (Web API)
 
 Entity Framework Core (EF Core)
