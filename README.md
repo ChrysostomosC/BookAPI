@@ -2,9 +2,9 @@
 ### A RESTful API for managing books and authors. Supports CRUD operations for books, listing all books and authors, and retrieving single book details.
 
 ## 🚀 Features
-## Create a new book 📖
+### Create a new book 📖
 
-List all books and authors 📚👥
+### List all books and authors 📚👥
 
 View a single book 🔍
 
