@@ -21,6 +21,5 @@ SQL Server (Database)
 
 Swagger (API documentation)
 
-Postman (for API testing)
 ---
 
