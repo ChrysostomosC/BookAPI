@@ -1,8 +1,8 @@
-📚 BookAPI
-A RESTful API for managing books and authors. Supports CRUD operations for books, listing all books and authors, and retrieving single book details.
+# 📚 BookAPI
+## A RESTful API for managing books and authors. Supports CRUD operations for books, listing all books and authors, and retrieving single book details.
 
-🚀 Features
-Create a new book 📖
+## 🚀 Features
+## Create a new book 📖
 
 List all books and authors 📚👥
 
